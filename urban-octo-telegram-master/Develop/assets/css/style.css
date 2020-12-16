@@ -1,13 +1,20 @@
+/*Page styles*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/*End page styles*/
 
+
+/*Apply styles to body*/
 body {
     background-color: #d9dcd6;
 }
+/*End body styles*/
 
+
+/*Apply styles to headers*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +27,14 @@ body {
     font-size: 48px;
 }
 
+
 .header h1 .seo {
     color: #d9dcd6;
 }
+/*End header styles*/
 
+
+/*Navigation styles*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,7 +51,10 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/*End navigation styles*/
 
+
+/*Hero section*/
 a {
     color: #ffffff;
     text-decoration: none;
