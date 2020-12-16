@@ -202,6 +202,7 @@ p {
     font-size: 36px;
 }
 
+/*Footer styles*/
 footer {
     padding: 30px;
     clear: both;
@@ -212,3 +213,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/*End footer styles*/
