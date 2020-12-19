@@ -31,7 +31,7 @@ __*GIVEN* a webpage meets accessibility standards:__
 * [*Original CODE*](https://github.com/iiTONELOC/codeRefactor/assets/startercode)
 
 
-![Image of Mockup](https://github.com/iiTONELOC/codeRefactor/assets/images/01-html-css-git-homework-demo.png)
+![Image of Mockup](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/images/01-html-css-git-homework-demo.png)
 
 ## **Project Requirements**
 * Satisfies all of the preceding acceptance criteria plus the following code improvements:
