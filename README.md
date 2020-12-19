@@ -56,4 +56,5 @@ __*GIVEN* a webpage meets accessibility standards:__
   * [*Refactored CSS*](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/css/style.css)
 
   **Screenshot of deployed website**
+  ![Image of Deployed URL](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/images/solvedscreenshot.png)
   
