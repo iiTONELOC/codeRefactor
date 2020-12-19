@@ -28,3 +28,6 @@ __GIVEN a webpage meets accessibility standards:__
 ## **Starter Code and Mockup**
 
 [*Original CODE*](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/startercode)
+
+Mockup 
+![Image of Mockup](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/images/01-html-css-git-homework-demo.png)
