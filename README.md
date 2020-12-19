@@ -3,9 +3,9 @@ This is my first weekly challenge for the UCF Coding Boot Camp. The following ch
 
 ## **Table of Contents**
 
-1. [Challenge](https://github.com/iiTONELOC/codeRefactor/README.md#challenge)
-2. [Starter Code and Mockup](https://github.com/iiTONELOC/codeRefactor/README.md#starter-code-and-mockup)
-3. [Project Requirements](https://github.com/iiTONELOC/codeRefactor/README.#project-requirements.)
+1. [Challenge](https://github.com/iiTONELOC/codeRefactor#challenge)
+2. [Starter Code and Mockup](https://github.com/iiTONELOC/codeRefactor#starter-code-and-mockup)
+3. [Project Requirements](https://github.com/iiTONELOC/codeRefactor#project-requirements.)
 
 ## **Challenge:**
 __AS A__ marketing agency
