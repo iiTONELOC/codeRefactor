@@ -5,7 +5,7 @@ This is my first weekly challenge for the UCF Coding Boot Camp. The following ch
 
 1. [Challenge](https://github.com/iiTONELOC/codeRefactor#challenge)
 2. [Starter Code and Mockup](https://github.com/iiTONELOC/codeRefactor#starter-code-and-mockup)
-3. [Project Requirements](https://github.com/iiTONELOC/codeRefactor#project-requirements.)
+3. [Project Requirements](https://github.com/iiTONELOC/codeRefactor#project-requirements)
 
 ## **Challenge:**
 __AS A__ marketing agency
@@ -28,7 +28,7 @@ __*GIVEN* a webpage meets accessibility standards:__
 
 ## **Starter Code and Mockup**
 **View The Original Code Here:**
-* [*Original CODE*](https://github.com/iiTONELOC/codeRefactor/assets/startercode)
+* [*Original CODE*](https://github.com/iiTONELOC/codeRefactor//blob/master/assets/startercode)
 
 
 ![Image of Mockup](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/images/01-html-css-git-homework-demo.png)
