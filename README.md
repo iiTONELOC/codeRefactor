@@ -41,7 +41,7 @@ __*GIVEN* a webpage meets accessibility standards:__
 ## **Project Requirements**
 * Satisfies all of the preceding acceptance criteria plus the following code improvements:
   * Application's links all function correctly.
-  * Application's CSS selectors and properties are consolidated and organized to follow sematic structure.
+  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
   * Application's CSS file is properly commented.
 * Application deployed at live URL.
 * Application loads with no errors.
