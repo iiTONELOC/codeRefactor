@@ -1,5 +1,5 @@
 # **HTML CSS Git Challenge**: *Code Refactor*
-This is my first weekly challenge for the UCF Coding Boot Camp. The following challenge is expressed in the form of an on-the-job ticket and the focus is on accessibility. I was given starter code with HTML and CSS and a mockup of the website for visual reference. 
+This is my first weekly challenge for the UCF Coding Boot Camp. The following challenge is expressed in the form of an on-the-job ticket and the focus is on accessibility. I was given starter code with HTML and CSS and a mockup of the website for visual reference.  
 
 ## **Table of Contents**
 
@@ -54,7 +54,11 @@ __*GIVEN* a webpage meets accessibility standards:__
 * Repository contains multiple descriptive commit messages.
 * Repository contains quality README file with desciption, screenshot, and link to deployed application.
 
-## **My Solution** 
+## **My Solution**
+
+**Live URL**
+
+https://iitoneloc.github.io/codeRefactor/
 
 **View my edited HTML and CSS here:**
 * [*Refactored HTML*](https://github.com/iiTONELOC/codeRefactor/blob/master/index.html)
