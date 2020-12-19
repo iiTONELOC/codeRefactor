@@ -26,8 +26,8 @@ __GIVEN a webpage meets accessibility standards:__
 * _THEN I find a concise, descriptive title_
 
 ## **Starter Code and Mockup**
+**View Original Code Here:**
+* [*Original CODE*](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/startercode)
 
-[*Original CODE*](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/startercode)
-
-Mockup 
+**Mockup**
 ![Image of Mockup](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/images/01-html-css-git-homework-demo.png)
