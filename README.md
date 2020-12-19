@@ -49,3 +49,11 @@ __*GIVEN* a webpage meets accessibility standards:__
 * Repository contains multiple descriptive commit messages.
 * Repository contains quality README file with desciption, screenshot, and link to deployed application.
 
+## **My Solution** 
+
+**View my edited HTML and CSS here:**
+* [*Refactored HTML*](https://github.com/iiTONELOC/codeRefactor/blob/master/index.html)
+  * [*Refactored CSS*](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/css/style.css)
+
+  **Screenshot of deployed website**
+  
