@@ -27,4 +27,4 @@ __GIVEN a webpage meets accessibility standards:__
 
 ## **Starter Code and Mockup**
 
-[*Original CODE*](https://github.com/iiTONELOC/codeRefactor/blob/master/startercode)
+[*Original CODE*](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/startercode)
