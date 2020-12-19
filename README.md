@@ -42,7 +42,7 @@ __*GIVEN* a webpage meets accessibility standards:__
 * Satisfies all of the preceding acceptance criteria plus the following code improvements:
   * Application's links all function correctly.
   * Application's CSS selectors and properties are consolidated and organized to follow sematic structure.
-  * Applications CSS file is properly cmmented.
+  * Application's CSS file is properly commented.
 * Application deployed at live URL.
 * Application loads with no errors.
 * Application GitHub URL submitted.
@@ -50,7 +50,7 @@ __*GIVEN* a webpage meets accessibility standards:__
 * Application resembles (at least 90%) screenshoots provided.
 * Repository has a unique name.
 * Repository follows best practices for file structure and naming conventions.
-* Repository follows best practices for class/id naming conventions, identation, quality comment, etc.
+* Repository follows best practices for class/id naming conventions, indentation, quality comment, etc.
 * Repository contains multiple descriptive commit messages.
 * Repository contains quality README file with desciption, screenshot, and link to deployed application.
 
@@ -68,7 +68,7 @@ https://iitoneloc.github.io/codeRefactor/
   ![Image of Deployed URL](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/images/solvedscreenshot.png)
 
 ## **Credits**
-I had no knowledge of HTML, CSS, or any coding language prior to starting the coding boot camp last week. I used the knowledge gained in the online lessions, virtual classes and some of these online tutorials/resources.
+I had no knowledge of HTML, CSS, or any coding language prior to starting the coding boot camp last week. I used the knowledge gained in the online lessons, virtual classes and the following tutorials/resources:
 * https://www.setcorrect.com/portfolio/work11/
 * https://github.com/noffle/art-of-readme/blob/master/README.md
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
