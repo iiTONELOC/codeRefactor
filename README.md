@@ -6,8 +6,13 @@ This is my first weekly challenge for the UCF Coding Boot Camp. The following ch
 1. [Challenge](https://github.com/iiTONELOC/codeRefactor#challenge)
 2. [Starter Code and Mockup](https://github.com/iiTONELOC/codeRefactor#starter-code-and-mockup)
 3. [Project Requirements](https://github.com/iiTONELOC/codeRefactor#project-requirements)
+4. [Solution](https://github.com/iiTONELOC/codeRefactor#solution)
+5. [Credits](https://github.com/iiTONELOC/codeRefactor#credits)
+6. [Technology Used](https://github.com/iiTONELOC/codeRefactor#technology-used)
+7. [License](https://github.com/iiTONELOC/codeRefactor#license)
 
 ## **Challenge:**
+
 __AS A__ marketing agency
 __I WANT__ a codebase that follows accessibility standards
 __SO THAT__ our own site is optimized for search engines.
@@ -57,4 +62,19 @@ __*GIVEN* a webpage meets accessibility standards:__
 
   **Screenshot of deployed website**
   ![Image of Deployed URL](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/images/solvedscreenshot.png)
-  
+
+## **Credits**
+I had no knowledge of HTML,CSS, or any coding language prior to starting the coding boot camp last week. I used the knowledge gained in the online lessions, virtual classes and some of these online tutorials/resources.
+* https://www.setcorrect.com/portfolio/work11/
+* https://github.com/noffle/art-of-readme/blob/master/README.md
+* https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
+* https://www.w3schools.com/css/css_intro.asp
+* https://guides.github.com/features/mastering-markdown/ 
+
+## **Technology Used**
+* ![GitHub language count](https://img.shields.io/github/languages/count/iiTONELOC/codeRefactor)
+  * ![GitHub top language](https://img.shields.io/github/languages/top/iiTONELOC/codeRefactor)
+  * ![CSS count](https://img.shields.io/badge/CSS-43.4%25-blue)
+## **License**
+
+![GitHub](https://img.shields.io/github/license/iiTONELOC/codeRefactor)
