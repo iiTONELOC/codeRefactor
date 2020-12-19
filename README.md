@@ -11,7 +11,7 @@ This is my first weekly challenge for the UCF Coding Boot Camp. The following ch
 6. [Technology Used](https://github.com/iiTONELOC/codeRefactor#technology-used)
 7. [License](https://github.com/iiTONELOC/codeRefactor#license)
 
-## **Challenge:**
+## **Challenge**
 
 __AS A__ marketing agency
 __I WANT__ a codebase that follows accessibility standards
@@ -47,10 +47,10 @@ __*GIVEN* a webpage meets accessibility standards:__
 * Application loads with no errors.
 * Application GitHub URL submitted.
 * GitHub repository that contains application code.
-* Application resembles (at least 90%) screenshoots provided.
+* Application resembles (at least 90%) screenshots provided.
 * Repository has a unique name.
 * Repository follows best practices for file structure and naming conventions.
-* Repository follows best practices for class/id naming conventions, indentation, quality comment, etc.
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 * Repository contains multiple descriptive commit messages.
 * Repository contains quality README file with desciption, screenshot, and link to deployed application.
 
