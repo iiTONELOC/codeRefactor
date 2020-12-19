@@ -64,7 +64,7 @@ __*GIVEN* a webpage meets accessibility standards:__
   ![Image of Deployed URL](https://github.com/iiTONELOC/codeRefactor/blob/master/assets/images/solvedscreenshot.png)
 
 ## **Credits**
-I had no knowledge of HTML,CSS, or any coding language prior to starting the coding boot camp last week. I used the knowledge gained in the online lessions, virtual classes and some of these online tutorials/resources.
+I had no knowledge of HTML, CSS, or any coding language prior to starting the coding boot camp last week. I used the knowledge gained in the online lessions, virtual classes and some of these online tutorials/resources.
 * https://www.setcorrect.com/portfolio/work11/
 * https://github.com/noffle/art-of-readme/blob/master/README.md
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes
