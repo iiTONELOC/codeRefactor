@@ -6,7 +6,7 @@ This is my first weekly challenge for the UCF Coding Boot Camp. The following ch
 1. [Challenge](https://github.com/iiTONELOC/codeRefactor#challenge)
 2. [Starter Code and Mockup](https://github.com/iiTONELOC/codeRefactor#starter-code-and-mockup)
 3. [Project Requirements](https://github.com/iiTONELOC/codeRefactor#project-requirements)
-4. [Solution](https://github.com/iiTONELOC/codeRefactor#solution)
+4. [Solution](https://github.com/iiTONELOC/codeRefactor#my-solution)
 5. [Credits](https://github.com/iiTONELOC/codeRefactor#credits)
 6. [Technology Used](https://github.com/iiTONELOC/codeRefactor#technology-used)
 7. [License](https://github.com/iiTONELOC/codeRefactor#license)
